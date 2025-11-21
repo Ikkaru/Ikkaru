@@ -19,7 +19,7 @@
 <img src="/nenechi/skills.png" width="488">
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikkaru&theme=default&show_icons=true&hide_border=true&layout=compact" width="40%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikkaru&layout=donut-vertical" width="30%">
 
 
 <div align="center">
@@ -29,6 +29,12 @@
   <img src="/svg/icons8-python.svg" width="60" style="margin: 5px;">
   <img src="/svg/icons8-pytorch.svg" width="60" style="margin: 5px;">
 </div>
+<br/>
 
+<img src="/nenechi/what.png" width="480">
 
+<br/>
+<br/>
+
+<img src="/nenechi/Projects.png" width="488">
 
