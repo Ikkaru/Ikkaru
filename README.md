@@ -32,13 +32,13 @@
 <br/>
 
 <img src="/nenechi/what.png" width="480">
+<br/>
 
 <!--Projects-->
 <img src="/nenechi/Projects.png" width="488">
 <br/>
 
-📕 [**cas-project**](https://github.com/Ikkaru/cas-project) : Personal Assistant Project
-📗 [**Portofolio-Website**]() : My Portofolio Website
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ikkaru&repo=cas-project" width="395">
 
 <br/>
 
