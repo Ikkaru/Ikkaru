@@ -38,8 +38,6 @@
 <img src="/nenechi/Projects.png" width="488">
 <br/>
 
-<img src="/nenechi/hmmh.png" width="250" align="right">
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikkaru&repo=cas-project" width="395">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikkaru&repo=portofolio-web" width="395">
 <br/>
