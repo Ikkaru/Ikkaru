@@ -33,8 +33,15 @@
 
 <img src="/nenechi/what.png" width="480">
 
-<br/>
+<!--Projects-->
+<img src="/nenechi/Projects.png" width="488">
 <br/>
 
-<img src="/nenechi/Projects.png" width="488">
+📕 [**cas-project**](https://github.com/Ikkaru/cas-project) : Personal Assistant Project
+📗 [**Portofolio-Website**]() : My Portofolio Website
+
+<br/>
+
+<img src="/nenechi/ ">
+
 
