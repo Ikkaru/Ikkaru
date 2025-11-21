@@ -19,17 +19,18 @@
 <img src="/nenechi/skills.png" width="488">
 <br/>
 
-<p float="left">
-<img src="/svg/icons8-c.svg" width="70" display="inline-block">
-<img src="/svg/icons8-c++.svg" width="70" display="iinline-block">
-<img src="/svg/icons8-javascript.svg" width="70" display="inline-block">
-<img src="/svg/icons8-python.svg" width="70" display="inline-block">
-<img src="/svg/icons8-pytorch.svg" width="70" display="inline-block ">
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikkaru&theme=default&show_icons=true&hide_border=true&layout=compact" width="40%">
 
-
-<div align="right">
-
-![Ikkaru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikkaru&theme=default&show_icons=true&hide_border=true&layout=compact)
 <div/>
+
+<div style="display: inline-block; width: 50%;">
+<img src="/svg/icons8-c.svg" width="70">
+<img src="/svg/icons8-c++.svg" width="70">
+<img src="/svg/icons8-javascript.svg" width="70">
+<img src="/svg/icons8-python.svg" width="70">
+<img src="/svg/icons8-pytorch.svg" width="70">
+</div>
+
+
+
 
