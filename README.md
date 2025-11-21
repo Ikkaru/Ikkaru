@@ -19,16 +19,13 @@
 <img src="/nenechi/skills.png" width="488">
 <br/>
 
+<p float="left">
 <img src="/svg/icons8-c.svg" width="70" display="inline-block">
-
 <img src="/svg/icons8-c++.svg" width="70" display="iinline-block">
-
 <img src="/svg/icons8-javascript.svg" width="70" display="inline-block">
-
 <img src="/svg/icons8-python.svg" width="70" display="inline-block">
-
 <img src="/svg/icons8-pytorch.svg" width="70" display="inline-block ">
-
+</p>
 
 
 <div align="right">
