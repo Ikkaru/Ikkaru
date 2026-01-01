@@ -13,7 +13,7 @@
 
 - 🧩Intereseted in: **Machine Learning**, **Game Developing**, and **Problem Solving**
 
-- 💬Languages: Bahasa Indonesia (Native Speaker), English (Proffesional)
+- 💬Languages: Bahasa Indonesia (Native Speaker), English (Professional)
 <br/>
 
 <img src="/nenechi/skills.png" width="488">
