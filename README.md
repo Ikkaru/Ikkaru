@@ -34,16 +34,6 @@
 <img src="/nenechi/what.png" width="480">
 <br/>
 
-<!--Projects-->
-<img src="/nenechi/Projects.png" width="488">
-<br/>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ikkaru&repo=cas-project" width="50%" style="display: inline-block;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ikkaru&repo=portofolio-web" width="50%"style="display: inline-block;">
-</div>
-<br/>
-<br/>
-
 <img src="/nenechi/Sakura_Nene_CPP.jpg" width="">
 
 
