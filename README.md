@@ -31,7 +31,7 @@
 
 <img src="/nenechi/what.png" width="480">
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ikkaru" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ikkaru)](https://git.io/streak-stats)
 <br/>
 
 <img src="/nenechi/Sakura_Nene_CPP.jpg" width="">
