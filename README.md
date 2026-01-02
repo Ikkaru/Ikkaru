@@ -19,8 +19,7 @@
 <img src="/nenechi/skills.png" width="488">
 
 
-<img align="right" src="https://readme-stats-eta-navy.vercel.app
-/api/top-langs/?username=ikkaru&layout=donut-vertical" width="30%">
+<img align="right" src="https://readme-stats-eta-navy.vercel.app/api/top-langs/?username=ikkaru&layout=donut-vertical" width="30%">
 
 
 <div align="center">
