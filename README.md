@@ -30,9 +30,6 @@
 <br/>
 
 <img src="/nenechi/what.png" width="480">
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ikkaru)](https://git.io/streak-stats)
 
 <br/>
 
