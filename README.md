@@ -18,9 +18,7 @@
 
 <img src="/nenechi/skills.png" width="488">
 
-
 <img align="right" src="https://readme-stats-eta-navy.vercel.app/api/top-langs/?username=ikkaru&layout=donut-vertical" width="30%">
-
 
 <div align="center">
   <img src="/svg/icons8-c.svg" width="60" style="margin: 5px;">
@@ -33,7 +31,7 @@
 
 <img src="/nenechi/what.png" width="480">
 <br/>
-<img src="https://streak-stats.demolab.com?user=Ikkaru" align="left" width="480">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ikkaru" alt="GitHub Streak" /></a>
 <br/>
 
 <img src="/nenechi/Sakura_Nene_CPP.jpg" width="">
