@@ -11,7 +11,7 @@
 
 - 🎓Field of Study: [**Informatics**](https://if.fatisda.uns.ac.id/)
 
-- 🧩Intereseted in: **Machine Learning**, **Ai Engineering**, and **Game Developingg**
+- 🧩Intereseted in: **Machine Learning**, **Ai Engineering**, and **Game Developing**
 
 - 💬Languages: Bahasa Indonesia (Native Speaker), English (Professional)
 <br/>
